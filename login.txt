@@ -1,0 +1,16 @@
+admin credentials:
+  Email: admin@bankqueue.com
+  Password: Admin@123
+
+http://localhost:3000/admin/branches
+
+
+After adding staff:
+
+Go to http://localhost:3000/auth/login
+
+Login with:
+
+STAFF LOGIN CREDENTIALS:
+Email: staff@bankqueue.com
+Password: Staff@123
